@@ -1,0 +1,13 @@
+E:\PCB\code\13_pcb_detect\pcb_detect\bin\Debug\pcb_detect.exe.config
+E:\PCB\code\13_pcb_detect\pcb_detect\bin\Debug\pcb_detect.exe
+E:\PCB\code\13_pcb_detect\pcb_detect\bin\Debug\pcb_detect.pdb
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.csproj.AssemblyReference.cache
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.Form1.resources
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.Properties.Resources.resources
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.csproj.GenerateResource.cache
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.csproj.CoreCompileInputs.cache
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.exe
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.pdb
+E:\PCB\code\13_pcb_detect\pcb_detect\bin\Debug\Newtonsoft.Json.dll
+E:\PCB\code\13_pcb_detect\pcb_detect\bin\Debug\Newtonsoft.Json.xml
+E:\PCB\code\13_pcb_detect\pcb_detect\obj\Debug\pcb_detect.csproj.CopyComplete
