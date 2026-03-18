@@ -1,0 +1,10 @@
+{
+    "jetson_01_cam_01": {
+        "sn": "GCN25120299",
+        "exposure": 30000
+    },
+    "jetson_01_cam_02": {
+        "sn": "GCN25120301",
+        "exposure": 30000
+    }
+}
